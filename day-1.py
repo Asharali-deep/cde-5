@@ -1,0 +1,2 @@
+name = ("ashar ")
+ print(:name)
